@@ -21,7 +21,7 @@ st.markdown('<h1 style="color: #008000; font-size: 3.0em; font-weight: bold;">IB
 #Display image
 #st.image("cool emoji.jpg"),use_column_width=False)
 
-st.write(emoji.emojize("Welcome to my mini project for calculating IBNR 😍😍"))
+st.write(emoji.emojize("Welcome to my mini 🛠️ project for calculating IBNR 😍😍"))
 
 # Upload claims triangle
 uploaded_file = st.file_uploader("UPLOAD CLAIMS TRIANGLE CSV", type="csv")
